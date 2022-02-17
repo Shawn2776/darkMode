@@ -1,0 +1,11 @@
+.square {
+  color: var(--text-primary);
+  background-color: var(--text-secondary);
+  border: 2px solid var(--accent);
+  margin: auto;
+  text-align: center;
+  transition: all .5s;
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+}
